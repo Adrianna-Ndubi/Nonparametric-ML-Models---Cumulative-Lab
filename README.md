@@ -1,5 +1,5 @@
 # Nonparametric-ML-Models---Cumulative-Lab
-Overview
+# Overview
 This project involves applying nonparametric machine learning models — k-nearest neighbors (kNN) and decision trees — to predict forest cover types based on cartographic variables. The dataset contains over 38,000 rows of land cell data labeled as either "Cottonwood/Willow" (1) or "Ponderosa Pine" (0). The objective is to identify the most accurate and efficient model through iterative experimentation.
 
 Objectives
